@@ -15,7 +15,6 @@ A test photo: ![Image](https://commonmark.org/help/images/favicon.png)
 3. three
 
 ---
-
 * one
 * two
 * three
