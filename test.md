@@ -1,2 +1,3 @@
 Testing...
-![Image](screenshot week2.png)
+
+![Image](screenshot_week2.png)
