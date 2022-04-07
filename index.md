@@ -6,7 +6,7 @@ Hello World!
 
 A test link: [Link](http://github.com)
 
-A test photo: ![Image](https://media.istockphoto.com/photos/male-lion-resting-on-a-rock-picture-id1333977253?b=1&k=20&m=1333977253&s=170667a&w=0&h=q_EqYl_GqFCR1XmF_AK91YRFDapwAClOoc2fZbsnmr4=)
+A test photo: ![Image](https://commonmark.org/help/images/favicon.png)
 >Blockquote
 1. one
 2. two
