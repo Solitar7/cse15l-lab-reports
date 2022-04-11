@@ -37,3 +37,16 @@ The picture above shows the file and also the code in the file that I copied to 
 
 **Part 5: SSH Keys**
 
+![pic5](pic5.png)
+
+![pic6](pic6.png)
+
+The two graphs above shows the steps that I used to generate the ssh-keygen. Use the ssh-keygen command (and just use the empty passpharse), and it will automatically create the needed files. Then, create the .ssh folder on the server and then copy the id_rsa.pub to the specific folder on the server. After that, you may directly log onto the server without password now.
+
+**Part 6: Optimizing Remote Running**
+
+![pic7](pic7.png)
+
+The commands above are some simple ways to optimize running commands. To run the same or similar commands as we have runned above, we may just use the up-arrow on keyboard and then change a little bit just as I've done above.
+
+---
