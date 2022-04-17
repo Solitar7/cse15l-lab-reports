@@ -49,6 +49,6 @@ There are actually several different ways to optimize the operation. For example
 
 ![pic7](pic7.png)
 
-The picture above shows how I apply some simple ways to optimize the operations. It is obvious that the first command and the second command are just the same, that is because I use the up-arrow to directly copy and run it. Actually I also directly copy the second code when running the third code and made a small change and it also works. Also, the `"ls"` and the `"ls -a"` let me able to see all the files and also the hidden files directly after I get into the server, which really optimize the commands.
+The picture above shows how I apply some simple ways to optimize the operations. It is obvious that the first command and the second command are just the same, that is because I use the up-arrow to directly copy and run it. Actually I also directly copy the second code when running the third code and made a small change and it also works. Also, the `"ls"` and the `"ls -a"` let me able to see all the files and also the hidden files directly after I get into the server, which really optimize how we run the commands.
 
 ---
