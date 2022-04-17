@@ -45,8 +45,10 @@ The two graphs above shows the steps that I used to generate the ssh-keygen. Use
 
 **Part 6: Optimizing Remote Running**
 
+There are actually several different ways to optimize the operation. For example, we may use `""` to some operation after the first operation in the command. And we may also use the up-arrow to directly copy the previous command we used.
+
 ![pic7](pic7.png)
 
-The commands above are some simple ways to optimize running commands. To run the same or similar commands as we have runned above, we may just use the up-arrow on keyboard and then change a little bit just as I've done above.
+The picture above shows how I apply some simple ways to optimize the operations. It is obvious that the first command and the second command are just the same, that is because I use the up-arrow to directly copy and run it. Actually I also directly copy the second code when running the third code and made a small change and it also works. Also, the `"ls"` and the `"ls -a"` let me able to see all the files and also the hidden files directly after I get into the server, which really optimize the commands.
 
 ---
