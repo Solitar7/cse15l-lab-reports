@@ -36,6 +36,6 @@ Third symptom below:
 
 This is caused by the bracket and the parenthesis are not adjacent. So I change the code and check whether the closeBracket is just before the openParen. If it is, get the link. If it is not, continue to the next loop with currentIndex go to openBracket + 1 in order to get the next openBracket.
 
-***
+---
 
-All changes completed
+All changes has completed here.
