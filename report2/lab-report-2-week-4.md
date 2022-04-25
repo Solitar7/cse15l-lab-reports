@@ -23,3 +23,15 @@ Second symptom below:
 ![second symptom](symptom2.png)
 
 This is caused since bracket can be found but parenthesis cannot. So I decide to check the closeBracket, the openParen, and the closeParen. If one of them is -1, then directly go to the next loop with currentIndex go to openBracket + 1 in order to get the next openBracket.
+
+**Code Change 3**
+
+Third change:
+![third change]()
+
+Third failure file [here](test-file5.md)
+
+Third symptom below:
+![third symptom]()
+
+This is caused by the bracket and the parenthesis are not adjacent. So I change the code and check whether the closeBracket is just before the openParen. If it is, get the link.
