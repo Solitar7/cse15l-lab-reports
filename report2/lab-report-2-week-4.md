@@ -32,6 +32,6 @@ Third change:
 Third failure file [here](test-file5.md)
 
 Third symptom below:
-![third symptom]()
+![third symptom](symptom3.png)
 
 This is caused by the bracket and the parenthesis are not adjacent. So I change the code and check whether the closeBracket is just before the openParen. If it is, get the link.
