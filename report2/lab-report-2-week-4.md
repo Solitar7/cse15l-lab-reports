@@ -16,9 +16,9 @@ This is caused by an infinite loop. Since the `indexOf` method return -1 if the 
 Second change:
 ![second change]()
 
-Second failure file [here]()
+Second failure file [here](test-file3.md)
 
 Second symptom below:
 ![second symptom]()
 
-This is caused by
+This is caused since bracket can be found but parenthesis cannot. So I decide to check the closeBracket, the openParen, and the closeParen. If one of them is -1, then directly go to the next loop with currentIndex go to openBracket + 1 in order to get the next openBracket.
