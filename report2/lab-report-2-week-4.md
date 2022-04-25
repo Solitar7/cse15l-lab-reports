@@ -15,7 +15,7 @@ This is caused by an infinite loop. Since the `indexOf` method return -1 if the 
 **Code Change 2**
 
 Second change:
-![second change]()
+![second change](change2.png)
 
 Second failure file [here](test-file3.md)
 
