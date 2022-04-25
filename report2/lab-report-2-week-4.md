@@ -19,6 +19,6 @@ Second change:
 Second failure file [here](test-file3.md)
 
 Second symptom below:
-![second symptom]()
+![second symptom](symptom2.png)
 
 This is caused since bracket can be found but parenthesis cannot. So I decide to check the closeBracket, the openParen, and the closeParen. If one of them is -1, then directly go to the next loop with currentIndex go to openBracket + 1 in order to get the next openBracket.
