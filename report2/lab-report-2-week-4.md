@@ -13,6 +13,7 @@ First symptom below:
 This is caused by an infinite loop. Since the `indexOf` method return -1 if the required string is not found. So I change the code and check if it gets -1. And if it is -1, then break the loop.
 
 **Code Change 2**
+
 Second change:
 ![second change]()
 
