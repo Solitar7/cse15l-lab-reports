@@ -5,7 +5,7 @@
 First change:
 ![first change](change1.png)
 
-First failure file [here](test-file.md)
+First failure file [test-file](test-file.md)
 
 First symptom below:
 ![first symptom](symptom1.png)
@@ -17,7 +17,7 @@ This is caused by an infinite loop. Since the `indexOf` method return -1 if the 
 Second change:
 ![second change](change2.png)
 
-Second failure file [here](test-file3.md)
+Second failure file [test-file3](test-file3.md)
 
 Second symptom below:
 ![second symptom](symptom2.png)
@@ -29,7 +29,7 @@ This is caused since bracket can be found but parenthesis cannot. So I decide to
 Third change:
 ![third change](change3.png)
 
-Third failure file [here](test-file5.md)
+Third failure file [test-file](test-file5.md)
 
 Third symptom below:
 ![third symptom](symptom3.png)
@@ -38,4 +38,4 @@ This is caused by the bracket and the parenthesis are not adjacent. So I change 
 
 ---
 
-All changes has completed here.
+All changes completed with no further failure.
