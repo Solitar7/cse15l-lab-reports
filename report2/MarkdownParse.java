@@ -24,9 +24,6 @@ public class MarkdownParse {
                 currentIndex = openBracket + 1;
                 continue;
             }
-            if(closeBracket + 1 != openParen){
-                continue;
-            }
             toReturn.add(markdown.substring(openParen + 1, closeParen));
             currentIndex = closeParen + 1;
         }
