@@ -11,6 +11,8 @@ The scp that copy a file to the server results here below.
 Here we can see that the top ls shows the existing files inside. Then by using the scp command and the local computer (my own computer), and then use ssh command to log into the server and use ls to check again, we can find that the copied file appears on the server.
 
 **Setup Github Access from ieng6**
+Here is public key on github.
+![github pubkey]()
 
 
 
