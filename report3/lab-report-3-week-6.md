@@ -16,6 +16,8 @@ Here is public key on github.
 Here is keys on server
 ![server keys](serverkey.png)
 
+**Copy whole directories with scp -r**
+
 
 
 
