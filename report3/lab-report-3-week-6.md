@@ -14,9 +14,9 @@ Here we can see that the top ls shows the existing files inside. Then by using t
 **Setup Github Access from ieng6**
 
 Here is public key on github.
-![github pubkey](gitkey.png)
+![github pubkey]()
 Here is keys on server
-![server keys](serverkey.png)
+![server keys]()
 
 **Copy whole directories with scp -r**
 
