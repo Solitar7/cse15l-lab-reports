@@ -7,7 +7,12 @@ Thus now I can use ssh and scp commands directly.
 The ssh command results here below.
 ![login](ssh.png)
 The scp that copy a file to the server results here below.
-F
+![copy](copy.png)
+Here we can see that the top ls shows the existing files inside. Then by using the scp command and the local computer (my own computer), and then use ssh command to log into the server and use ls to check again, we can find that the copied file appears on the server.
+
+**Setup Github Access from ieng6**
+
+
 
 
 
