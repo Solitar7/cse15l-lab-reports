@@ -23,6 +23,13 @@ The link to this commit is [here](https://github.com/Solitar7/markdown-parser/co
 
 **Copy whole directories with scp -r**
 
+Now I need to copy the whole directory of markdown-parser.
+![copywhole](copywhole.png)
+Though there are a lot of files, they are still all copied (not all shown in the graph).
+Then I get on the server and compile and run the test.
+![runtest](runtest.png)
+We can see first some copied files on the top of this screenshot and then also test run successfully.
+Now, I'm going to run all the commands in one line.
 
 
 
