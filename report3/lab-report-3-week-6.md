@@ -28,11 +28,11 @@ Now I need to copy the whole directory of markdown-parser.
 Though there are a lot of files, they are still all copied (not all shown in the graph).
 Then I get on the server and compile and run the test.
 ![runtest](runtest.png)
-We can see first some copied files on the top of this screenshot and then also test run successfully.
+We can see first some copied files on the top of this screenshot and then also test runs successfully.
 Now, I'm going to run all the commands in one line.
 ![all1](all1.png)
 ![all2](all2.png)
-From the two pictures above, I successfully copy all the files to the server and then directly log into the server and then compile and run all the codes. The result shown is also good.
+From the two pictures above, I successfully copy all the files to the server and then directly log into the server and then compile and run all the codes. The result of the test shown is also good.
 
 
 
