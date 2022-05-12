@@ -13,7 +13,7 @@ Here we can see that the top ls shows the existing files inside. Then by using t
 
 **Setup Github Access from ieng6**
 
-Here is keys on server, I uses keygen with rsa encode to get the keys and thus may copy the key and add it as public key on github.
+Here is keys on server, I uses keygen with rsa encode to get the keys and then may open and copy the public key and add it as public key on github.
 ![server keys](serverkey.png)
 
 Here is public key on github.
