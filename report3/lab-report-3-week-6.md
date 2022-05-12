@@ -22,7 +22,7 @@ Here is keys on server
 Then I made a clone and made some changes (not shown), then commit and push it back just like shown below.
 ![commitpush](commitandpush.png)
 
-The link to this commit is [here](https://github.com/Solitar7/markdown-parser/commit/c64728c4e9146cb530bdb2b6f118f7c355121539).
+The link to this commit is [here](https://github.com/Solitar7/markdown-parser/commit/35e381a43b12cc5b07a4b4b8c25901f9a8374cf7).
 
 **Copy whole directories with scp -r**
 
