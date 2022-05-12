@@ -13,11 +13,11 @@ Here we can see that the top ls shows the existing files inside. Then by using t
 
 **Setup Github Access from ieng6**
 
+Here is keys on server, I uses keygen with rsa encode to get the keys and thus may copy the key and add it as public key on github.
+![server keys](serverkey.png)
+
 Here is public key on github.
 ![github pubkey](githubkey.png)
-
-Here is keys on server
-![server keys](serverkey.png)
 
 Then I made a clone and made some changes (not shown), then commit and push it back just like shown below.
 ![commitpush](commitandpush.png)
