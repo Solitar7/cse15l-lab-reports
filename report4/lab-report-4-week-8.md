@@ -13,4 +13,4 @@ For Snippet3, I expect to get [https://sites.google.com/eng.ucsd.edu/cse-15l-spr
 The tester code I write is in my repository above, and the screenshot of the code is here below.
 ![MarkdownParseTester](MarkdownParseTester.png)
 
-For my implementation, I have the following output below, which are actually all wrong.
+For my implementation, I have the following output, which are actually all wrong.
