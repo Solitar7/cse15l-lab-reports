@@ -8,8 +8,9 @@ Here above I first get my own parser to the server.
 Then I delete my file and copy the provided repositary and first edit the script.sh file in order to print all the names of the files, and then use make test in a quick way to set all the things, and finally run script.sh and put the result into the file named others-results.txt.
 ![changeparser](changeparser.png)
 After that, I remove both .class file and replace the MarkdownParse.java file in order to use make test again to quickly set all the things ready.
-
-Then, I can create my file and use vimdiff to check difference now, with the result shown below.
+![changesandvimdif](changesandvimdiff.png)
+Then, I can create my results from my parser and use vimdiff to check difference now, with part of the different the results shown below.
+![partdiff](partdiff.png)
 
 
 
