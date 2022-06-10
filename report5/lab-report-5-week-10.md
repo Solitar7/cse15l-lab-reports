@@ -22,14 +22,14 @@ Now two different files need to be discussed separately.
 **402.md**
 ![402result](402result.png)
 From the website, we can found that it is not a link, thus according to the pictures above, my result is wrong, which means my implementation is wrong. The actual output should be [] with nothing inside.
-
-I think that I can fix my code by checking if there is [] before () to get a correct link, since a link in () must have [] just before it.
+![codesnippet](codesnippet.png)
+The picture above is my code, and I think that I can fix my code by checking if there is [] before () to get a correct link, since a link in () must have [] just before it. This means that I should add the checking between line 16 and line 17 to see if ( is one index after ]. If it is, then the thing in () should be a link.
 
 **41.md**
 ![41result](41result.png)
 From the website, we can found that it is not a link, thus according to the pictures above, my result is wrong again, which means my implementation is wrong again. The actual output should still be [] with nothing inside.
-
-But for this time, I think the way to fix my code is to first fix the bug above, then add one more check to see if there is "" inside [], while "" may or may not have text in between.
+![codesnippet](codesnippet.png)
+For this time, I think the way to fix my code is to first fix the bug above, then add one more check to see if there is "" inside [], while "" may or may not have text in between. In ,y code snippet above, I may check for "" between line 21 and line 22 to see if the things in () contains "". If it really contains "", it should not be a link.
 
 
 
